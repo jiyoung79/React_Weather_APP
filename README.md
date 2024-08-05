@@ -12,7 +12,9 @@
 
 ## 💡 정리
 
-<img src="https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=31790" url="https://glowing-windscreen-f69.notion.site/Weather-app-2a00af424e164871b0698e99fec438d4?pvs=4" width="170" height="70"/>
+<a href="https://glowing-windscreen-f69.notion.site/Weather-app-2a00af424e164871b0698e99fec438d4?pvs=4">
+  <img src="https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=31790" alt="Notion" width="170" height="70">
+</a>
 
 
 <hr/>
