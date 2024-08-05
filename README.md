@@ -1,3 +1,22 @@
+# Weather App
+
+1. 앱이 실행되자마자 현재 위치 기반의 날씨가 보인다.
+2. 날씨 정보에는 도씨, 섭씨, 화씨, 날씨상태를 알려준다.
+3. 5개의 버튼이 있다.(1 : 현재위치, 4 : 다른도시)
+4. 도시 버튼을 클릭할때마다 도시별 날씨가 나온다.
+5. 현재 위치 기반 날씨버튼을 클릭하면 다시 현재 위치 기반으로 돌아온다.
+6. 데이터를 가져오는 동안 로딩 스피너가 돌아간다.
+
+<br>
+<hr/>
+
+## 💡 정리
+
+<img src="https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=31790" url="https://glowing-windscreen-f69.notion.site/Weather-app-2a00af424e164871b0698e99fec438d4?pvs=4" width="170" height="70"/>
+
+
+<hr/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +87,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
